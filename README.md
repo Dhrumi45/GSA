@@ -15,19 +15,19 @@ The web interface contains:
 
 🔍 **Machine Learning Models Implemented**
 
-1️⃣ **Logistic Regression Model** (Accuracy: **83.52%**)
+1️⃣ **Logistic Regression Model** (Accuracy: **83.52%**) Model1/README.md
 
   •	Uses **TF-IDF vectorization + Logistic Regression**
 
   •	Web-based UI for real-time sentiment prediction
 
-2️⃣ **SVM Model (Linear Kernel - SVC)** (Accuracy: **84.88%**)
+2️⃣ **SVM Model (Linear Kernel - SVC)** (Accuracy: **84.88%**) Model2/README.md
 
   •	Uses **TF-IDF vectorization + Support Vector Machine (SVC - Linear Kernel)**
 
   •	Provides improved accuracy over Logistic Regression
 
-3️⃣ **Ensemble Learning Model** (Accuracy: **81.40%**)
+3️⃣ **Ensemble Learning Model** (Accuracy: **81.40%**) Model3/README.md
 
   •	Combines **SVM + Random Forest + Logistic Regression** for robust sentiment classification
 
