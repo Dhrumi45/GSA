@@ -1,7 +1,7 @@
 # Gujarati Sentiment Analysis (GSA)
 **Gujarati Sentiment Analysis**
 
-This project aims to perform Gujarati Sentiment Analysis, classifying text as **Positive (સકારાત્મક)**, **Negative (નકારાત્મક)**, **or Neutral (તટસ્થ)** using different machine learning models. It includes a **Flask-based web application** that ensures **only Gujarati text input is allowed**. If non-Gujarati text is entered, an error message is displayed.
+This project aims to perform Gujarati Sentiment Analysis, classifying text as **Positive (સકારાત્મક) [1]**, **Negative (નકારાત્મક) [0]**, **or Neutral (તટસ્થ) [2]** using different machine learning models. It includes a **Flask-based web application** that ensures **only Gujarati text input is allowed**. If non-Gujarati text is entered, an error message is displayed.
 
 The web interface contains:
 
